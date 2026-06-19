@@ -4,7 +4,7 @@ An enterprise-grade, role-based platform designed to coordinate and streamline c
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 - **Frontend**: React 19, Vite, React Router DOM, Axios, Tailwind CSS, Recharts, Lucide Icons.
 - **Backend**: Java 21, Spring Boot 3.3.x, Spring Security (JWT), Spring Data JPA, Hibernate, Lombok, Maven.
