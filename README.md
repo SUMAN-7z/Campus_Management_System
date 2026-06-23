@@ -10,5 +10,3 @@ An enterprise-grade, role-based platform designed to coordinate and streamline c
 - **Backend**: Java 21, Spring Boot 3.3.x, Spring Security (JWT), Spring Data JPA, Hibernate, Lombok, Maven.
 - **Database**: MySQL 8.
 - **API Documentation**: Swagger UI, Postman Collection.
-
-```
